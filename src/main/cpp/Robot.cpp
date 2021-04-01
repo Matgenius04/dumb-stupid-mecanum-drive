@@ -14,8 +14,8 @@ void Robot2498::RobotInit()
   // match your robot.
 
   // TODO: Verify which motors are inverted on the robot
-  frontLeft_.SetInverted(true);
-  rearLeft_.SetInverted(true);
+  // frontLeft_.SetInverted(true);
+  // rearLeft_.SetInverted(true);
 }
 
 void Robot2498::TeleopPeriodic()
